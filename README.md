@@ -192,6 +192,8 @@ The experience further strengthened my interest in cybersecurity and my commitme
 This repository contains a redacted portfolio sample of a supervised cybersecurity training exercise conducted in a controlled laboratory environment with written authorization.
 
 Client identity, personal information, actual filenames and exact figures have been removed or replaced with placeholders.
+
 The project is intended strictly for educational and portfolio purposes. All security testing must be conducted only on systems for which explicit authorization has been granted.
 
-Learning. Practising. Securing the Digital World.* 🔐
+Client identity, personal information, actual filenames and exact figures have been removed or replaced with placeholders.
+The project is intended strictly for educational and portfolio purposes. All security testing must be conducted only on systems for which explicit authorization has been granted.
