@@ -197,6 +197,5 @@ Client identity, personal information, actual filenames and exact figures have b
 
 The project is intended strictly for educational and portfolio purposes. All security testing must be conducted only on systems for which explicit authorization has been granted.
 
-**Networkwalks.com Academy | Batch BO84D**
 
 *Learning. Practising. Securing the Digital World.* 🔐
